@@ -1161,8 +1161,8 @@
     ],
     "min_jito_versions": [],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": 977,
-    "devnet_activation_epoch": 1092,
+    "testnet_activation_epoch": 978,
+    "devnet_activation_epoch": 1093,
     "comms_required": null,
     "mainnet_activation_epoch": null,
     "description": ""
@@ -1187,8 +1187,8 @@
       "v4.0.0-beta.0"
     ],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": 957,
-    "devnet_activation_epoch": 1073,
+    "testnet_activation_epoch": 958,
+    "devnet_activation_epoch": 1074,
     "comms_required": null,
     "mainnet_activation_epoch": null,
     "description": ""
@@ -1211,8 +1211,8 @@
       "v4.0.0-beta.0"
     ],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": 958,
-    "devnet_activation_epoch": 1074,
+    "testnet_activation_epoch": 959,
+    "devnet_activation_epoch": 1075,
     "comms_required": null,
     "mainnet_activation_epoch": null,
     "description": ""
@@ -1235,8 +1235,8 @@
     ],
     "min_jito_versions": [],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": 981,
-    "devnet_activation_epoch": 1099,
+    "testnet_activation_epoch": 982,
+    "devnet_activation_epoch": 1100,
     "comms_required": null,
     "mainnet_activation_epoch": null,
     "description": ""
@@ -1259,8 +1259,8 @@
     ],
     "min_jito_versions": [],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": 1000,
-    "devnet_activation_epoch": null,
+    "testnet_activation_epoch": 1001,
+    "devnet_activation_epoch": 1116,
     "comms_required": null,
     "mainnet_activation_epoch": null,
     "description": ""
@@ -1283,8 +1283,8 @@
     ],
     "min_jito_versions": [],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": null,
-    "devnet_activation_epoch": null,
+    "testnet_activation_epoch": 1003,
+    "devnet_activation_epoch": 1119,
     "comms_required": null,
     "mainnet_activation_epoch": null,
     "description": ""
@@ -1307,7 +1307,7 @@
     ],
     "min_jito_versions": [],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": null,
+    "testnet_activation_epoch": 1005,
     "devnet_activation_epoch": null,
     "comms_required": null,
     "mainnet_activation_epoch": null,
@@ -1331,7 +1331,7 @@
     ],
     "min_jito_versions": [],
     "planned_testnet_order": null,
-    "testnet_activation_epoch": null,
+    "testnet_activation_epoch": 1007,
     "devnet_activation_epoch": null,
     "comms_required": null,
     "mainnet_activation_epoch": null,
